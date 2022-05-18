@@ -2,7 +2,7 @@
 
 ### click on the picture
 
-[![Watch the video](https://i9.ytimg.com/vi/hY2ojmZK5OE/mq2.jpg?sqp=CMiR9ZMG&rs=AOn4CLCl6AQ01j8lxmRdsbQAGpYqOnBG9Q)](https://youtu.be/hY2ojmZK5OE)
+[![Watch the video](https://i9.ytimg.com/vi/hY2ojmZK5OE/mq2.jpg?sqp=CKj2lJQG&rs=AOn4CLC39zBlYos-DobQiBBFAxvQJ0JvrQ)](https://youtu.be/hY2ojmZK5OE)
 
 ```
  
